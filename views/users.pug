@@ -1,0 +1,10 @@
+extends layouts/main-layout.pug
+
+block content
+    h1 Use 
+    if use .length > 0
+        ul
+            each user in use 
+                li #{user.name}
+    else
+        h1 No Use  Found!
