@@ -1,0 +1,35 @@
+#logo
+{
+   font-family: 'Courgette', cursive;   
+}
+.textonimage
+{
+    position: absolute;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+    color: dodgerblue;
+    font-size: 40px;
+}
+#toprow
+{
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+#bottomrow
+{
+    padding-bottom: 20px;    
+}
+#map
+{
+    height:300px;
+}
+#breadcrumb
+{
+    background-color: #DF678C;
+}
+#endingsection
+{
+    padding-bottom: 30px;
+}
